@@ -27,8 +27,5 @@ public class ClasePrueba {
         return a/b;
     }
     
-    public int resto (int a, int b){
-        return a%b;
-    }
     
 }
