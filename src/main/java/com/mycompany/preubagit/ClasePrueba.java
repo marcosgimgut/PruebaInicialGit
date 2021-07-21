@@ -30,5 +30,9 @@ public class ClasePrueba {
     public int resto (int a, int b){
         return a%b;
     }
+    //merge
+    public int nuevodesarrollo (int a, int b){
+        return a%b;
+    }
     
 }
