@@ -27,5 +27,14 @@ public class ClasePrueba {
         return a/b;
     }
     
+      
+        //Rama
+    public int resto (int a, int b){
+        return a%b;
+    }
+    //merge
+    public int nuevodesarrollo (int a, int b){
+        return a%b;
+    }
     
 }
